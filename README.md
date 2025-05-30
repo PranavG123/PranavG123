@@ -6,7 +6,7 @@ I'm a second-year Computer Science major at the University of Virginia, also pur
 
 ### 🛠️ Technologies I Use
 
-- **Frontend**: React (web), Flutter (iOS – [Pickl app](https://github.com/PranavG123/pickl-app))
+- **Frontend**: React (web), Flutter (iOS – [Pickl app](https://github.com/ColdBlitz101/picklnairted))
 - **Backend**: Django, Node.js, Firebase
 - **AI/ML**: PyTorch, OpenAI APIs (for adversarial prompts and model auditing)
 - **DevOps**: GitHub Actions, AWS (used for deploying and scaling cloud-based systems)
