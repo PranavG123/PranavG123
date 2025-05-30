@@ -25,4 +25,4 @@ I'm a second-year Computer Science major at the University of Virginia, also pur
 
 ### 📬 Let’s Connect
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pranav-goteti/), [Email](goteti.pranav@gmail.com) or check out more of my projects on [GitHub](https://github.com/PranavG123).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pranav-goteti/), Email: (goteti.pranav@gmail.com), or check out more of my projects on [GitHub](https://github.com/PranavG123).
