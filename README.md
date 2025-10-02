@@ -15,7 +15,7 @@ I'm a third-year Computer Science major at the University of Virginia, also purs
 
 ### 📌 Projects I'm Proud Of
 
-- **Clinpex Mobile App** – Developed and published a cross-platform app (iOS + Android) for clinical term browsing, now live on the [App Store](https://apps.apple.com/us/app/meddra-browser/id6751451614) and [Google Play]([https://play.google.com/store/apps/details?id=com.clinpex.mapps](https://play.google.com/store/apps/details?id=com.clinpex.meddrabrowser)).  
+- **Clinpex Mobile App** – Developed and published a cross-platform app (iOS + Android) for clinical term browsing, now live on the [App Store](https://apps.apple.com/us/app/meddra-browser/id6751451614) and [Google Play Store](https://play.google.com/store/apps/details?id=com.clinpex.meddrabrowser).  
   More details available on the [Clinpex website](https://www.clinpex.com/Mobileapps).
 
 - **Pickl** – A Flutter + Firebase mobile app that helps groups reach consensus through individual swipes and group aggregation ([Click here](https://github.com/ColdBlitz101/picklnairted))
